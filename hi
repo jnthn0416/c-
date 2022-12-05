@@ -1,0 +1,9 @@
+#include<ioatream>
+using namespace std;
+
+int main(){
+
+cout<<"HELLO PAKYU";
+
+return 0;
+}
